@@ -6,7 +6,7 @@ open a shell and typ the following commands
  <br> mkdir /usr/local/scripts/
  <br> cd /usr/local/scripts/
  <br> git clone  https://github.com/lucabodd/Mantis-notification-client.git 
- <br> mv mv Mantis-notification-client/ ticket_notif
+ <br> mv Mantis-notification-client/ ticket_notif
  
  
 
