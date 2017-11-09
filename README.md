@@ -11,7 +11,7 @@ open a shell and typ the following commands
  
 
 
-type crontab -e and add on the bottom of the file the following line:<br>
+type crontab -e and add on the bottom of the file add the following line:<br>
 <code>
  */3 * * * * /usr/bin/php /usr/local/scripts/ticket_notif/main.php
 </code>
